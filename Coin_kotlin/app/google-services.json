@@ -1,0 +1,132 @@
+{
+  "project_info": {
+    "project_number": "900857055162",
+    "project_id": "coinner-cbf34",
+    "storage_bucket": "coinner-cbf34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900857055162:android:6a44a696a9581a58ebbf83",
+        "android_client_info": {
+          "package_name": "com.coinner.coin_kotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900857055162-8a4nmac2gish9qf0j7mblear6jsgo4bc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.coinner.coin_kotlin",
+            "certificate_hash": "c607c75cb808731673745b7c4d0467da37afecbd"
+          }
+        },
+        {
+          "client_id": "900857055162-fqlbt63oqd4rvk8kp6d4jdgkl5mhcdmi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.coinner.coin_kotlin",
+            "certificate_hash": "80398f81ca87b347152ace4104743dc48a81eb6b"
+          }
+        },
+        {
+          "client_id": "900857055162-urane7raaf5cafkek0i1ifl18ecm952l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.coinner.coin_kotlin",
+            "certificate_hash": "f92219d987eba73485318320011b7677b376ddf0"
+          }
+        },
+        {
+          "client_id": "900857055162-vffm2kerim8shsv7c9s987atn77c08ac.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.coinner.coin_kotlin",
+            "certificate_hash": "e441d6a845182c288d49f33467049913597951be"
+          }
+        },
+        {
+          "client_id": "900857055162-5110niio0f1b612kc0bgrlt34tdpg7c4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXT3TkVDMi21j2zPvDEpuVeq9x3MYMFTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900857055162-5110niio0f1b612kc0bgrlt34tdpg7c4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900857055162:android:2df4e49a74994f8aebbf83",
+        "android_client_info": {
+          "package_name": "com.example.coin_kotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900857055162-9l0h986npim0ir68ndo4s42tcq7ul07t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.coin_kotlin",
+            "certificate_hash": "e441d6a845182c288d49f33467049913597951be"
+          }
+        },
+        {
+          "client_id": "900857055162-c54i8o9j0b4tjn5a57gt8p05c43na17n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.coin_kotlin",
+            "certificate_hash": "f92219d987eba73485318320011b7677b376ddf0"
+          }
+        },
+        {
+          "client_id": "900857055162-ecmpiesm6p3qidvs907i8khg36pvbo8o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.coin_kotlin",
+            "certificate_hash": "c607c75cb808731673745b7c4d0467da37afecbd"
+          }
+        },
+        {
+          "client_id": "900857055162-m72b9vrhkp8a4fpel5aosasogp0ds7lg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.coin_kotlin",
+            "certificate_hash": "80398f81ca87b347152ace4104743dc48a81eb6b"
+          }
+        },
+        {
+          "client_id": "900857055162-5110niio0f1b612kc0bgrlt34tdpg7c4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXT3TkVDMi21j2zPvDEpuVeq9x3MYMFTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900857055162-5110niio0f1b612kc0bgrlt34tdpg7c4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

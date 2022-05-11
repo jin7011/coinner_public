@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">900857055162-5110niio0f1b612kc0bgrlt34tdpg7c4.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">900857055162</string>
+    <string name="google_api_key" translatable="false">AIzaSyDXT3TkVDMi21j2zPvDEpuVeq9x3MYMFTk</string>
+    <string name="google_app_id" translatable="false">1:900857055162:android:6a44a696a9581a58ebbf83</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDXT3TkVDMi21j2zPvDEpuVeq9x3MYMFTk</string>
+    <string name="google_storage_bucket" translatable="false">coinner-cbf34.appspot.com</string>
+    <string name="project_id" translatable="false">coinner-cbf34</string>
+</resources>

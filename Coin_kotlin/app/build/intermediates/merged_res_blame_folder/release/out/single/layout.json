@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "C:\\Users\\fpdlq\\Desktop\\android\\coinner\\Coin_kotlin\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_board.xml",
+        "source": "C:\\Users\\fpdlq\\Desktop\\android\\coinner\\Coin_kotlin\\app\\src\\main\\res\\layout\\activity_board.xml"
+    },
+    {
+        "merged": "C:\\Users\\fpdlq\\Desktop\\android\\coinner\\Coin_kotlin\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "C:\\Users\\fpdlq\\Desktop\\android\\coinner\\Coin_kotlin\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\fpdlq\\Desktop\\android\\coinner\\Coin_kotlin\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\item_source.xml",
+        "source": "C:\\Users\\fpdlq\\Desktop\\android\\coinner\\Coin_kotlin\\app\\src\\main\\res\\layout\\item_source.xml"
+    },
+    {
+        "merged": "C:\\Users\\fpdlq\\Desktop\\android\\coinner\\Coin_kotlin\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\item_coin.xml",
+        "source": "C:\\Users\\fpdlq\\Desktop\\android\\coinner\\Coin_kotlin\\app\\src\\main\\res\\layout\\item_coin.xml"
+    },
+    {
+        "merged": "C:\\Users\\fpdlq\\Desktop\\android\\coinner\\Coin_kotlin\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\toolbar_writepost.xml",
+        "source": "C:\\Users\\fpdlq\\Desktop\\android\\coinner\\Coin_kotlin\\app\\src\\main\\res\\layout\\toolbar_writepost.xml"
+    },
+    {
+        "merged": "C:\\Users\\fpdlq\\Desktop\\android\\coinner\\Coin_kotlin\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_post.xml",
+        "source": "C:\\Users\\fpdlq\\Desktop\\android\\coinner\\Coin_kotlin\\app\\src\\main\\res\\layout\\activity_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\fpdlq\\Desktop\\android\\coinner\\Coin_kotlin\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_search.xml",
+        "source": "C:\\Users\\fpdlq\\Desktop\\android\\coinner\\Coin_kotlin\\app\\src\\main\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\fpdlq\\Desktop\\android\\coinner\\Coin_kotlin\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_source.xml",
+        "source": "C:\\Users\\fpdlq\\Desktop\\android\\coinner\\Coin_kotlin\\app\\src\\main\\res\\layout\\activity_source.xml"
+    },
+    {
+        "merged": "C:\\Users\\fpdlq\\Desktop\\android\\coinner\\Coin_kotlin\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\view_nothing_search.xml",
+        "source": "C:\\Users\\fpdlq\\Desktop\\android\\coinner\\Coin_kotlin\\app\\src\\main\\res\\layout\\view_nothing_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\fpdlq\\Desktop\\android\\coinner\\Coin_kotlin\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\view_loader.xml",
+        "source": "C:\\Users\\fpdlq\\Desktop\\android\\coinner\\Coin_kotlin\\app\\src\\main\\res\\layout\\view_loader.xml"
+    },
+    {
+        "merged": "C:\\Users\\fpdlq\\Desktop\\android\\coinner\\Coin_kotlin\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\item_comments.xml",
+        "source": "C:\\Users\\fpdlq\\Desktop\\android\\coinner\\Coin_kotlin\\app\\src\\main\\res\\layout\\item_comments.xml"
+    },
+    {
+        "merged": "C:\\Users\\fpdlq\\Desktop\\android\\coinner\\Coin_kotlin\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_change_nickname.xml",
+        "source": "C:\\Users\\fpdlq\\Desktop\\android\\coinner\\Coin_kotlin\\app\\src\\main\\res\\layout\\activity_change_nickname.xml"
+    },
+    {
+        "merged": "C:\\Users\\fpdlq\\Desktop\\android\\coinner\\Coin_kotlin\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\mpchart_items.xml",
+        "source": "C:\\Users\\fpdlq\\Desktop\\android\\coinner\\Coin_kotlin\\app\\src\\main\\res\\layout\\mpchart_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\fpdlq\\Desktop\\android\\coinner\\Coin_kotlin\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\view_nothing.xml",
+        "source": "C:\\Users\\fpdlq\\Desktop\\android\\coinner\\Coin_kotlin\\app\\src\\main\\res\\layout\\view_nothing.xml"
+    },
+    {
+        "merged": "C:\\Users\\fpdlq\\Desktop\\android\\coinner\\Coin_kotlin\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\drawer_header.xml",
+        "source": "C:\\Users\\fpdlq\\Desktop\\android\\coinner\\Coin_kotlin\\app\\src\\main\\res\\layout\\drawer_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\fpdlq\\Desktop\\android\\coinner\\Coin_kotlin\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\item_alarm.xml",
+        "source": "C:\\Users\\fpdlq\\Desktop\\android\\coinner\\Coin_kotlin\\app\\src\\main\\res\\layout\\item_alarm.xml"
+    },
+    {
+        "merged": "C:\\Users\\fpdlq\\Desktop\\android\\coinner\\Coin_kotlin\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_notice.xml",
+        "source": "C:\\Users\\fpdlq\\Desktop\\android\\coinner\\Coin_kotlin\\app\\src\\main\\res\\layout\\activity_notice.xml"
+    },
+    {
+        "merged": "C:\\Users\\fpdlq\\Desktop\\android\\coinner\\Coin_kotlin\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_alarm_setting.xml",
+        "source": "C:\\Users\\fpdlq\\Desktop\\android\\coinner\\Coin_kotlin\\app\\src\\main\\res\\layout\\activity_alarm_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\fpdlq\\Desktop\\android\\coinner\\Coin_kotlin\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_alarm.xml",
+        "source": "C:\\Users\\fpdlq\\Desktop\\android\\coinner\\Coin_kotlin\\app\\src\\main\\res\\layout\\activity_alarm.xml"
+    },
+    {
+        "merged": "C:\\Users\\fpdlq\\Desktop\\android\\coinner\\Coin_kotlin\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_admob.xml",
+        "source": "C:\\Users\\fpdlq\\Desktop\\android\\coinner\\Coin_kotlin\\app\\src\\main\\res\\layout\\activity_admob.xml"
+    },
+    {
+        "merged": "C:\\Users\\fpdlq\\Desktop\\android\\coinner\\Coin_kotlin\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_policy.xml",
+        "source": "C:\\Users\\fpdlq\\Desktop\\android\\coinner\\Coin_kotlin\\app\\src\\main\\res\\layout\\activity_policy.xml"
+    },
+    {
+        "merged": "C:\\Users\\fpdlq\\Desktop\\android\\coinner\\Coin_kotlin\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\fpdlq\\Desktop\\android\\coinner\\Coin_kotlin\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\fpdlq\\Desktop\\android\\coinner\\Coin_kotlin\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_write.xml",
+        "source": "C:\\Users\\fpdlq\\Desktop\\android\\coinner\\Coin_kotlin\\app\\src\\main\\res\\layout\\activity_write.xml"
+    },
+    {
+        "merged": "C:\\Users\\fpdlq\\Desktop\\android\\coinner\\Coin_kotlin\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_mypost.xml",
+        "source": "C:\\Users\\fpdlq\\Desktop\\android\\coinner\\Coin_kotlin\\app\\src\\main\\res\\layout\\activity_mypost.xml"
+    },
+    {
+        "merged": "C:\\Users\\fpdlq\\Desktop\\android\\coinner\\Coin_kotlin\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\toolbar_board.xml",
+        "source": "C:\\Users\\fpdlq\\Desktop\\android\\coinner\\Coin_kotlin\\app\\src\\main\\res\\layout\\toolbar_board.xml"
+    },
+    {
+        "merged": "C:\\Users\\fpdlq\\Desktop\\android\\coinner\\Coin_kotlin\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\activity_info.xml",
+        "source": "C:\\Users\\fpdlq\\Desktop\\android\\coinner\\Coin_kotlin\\app\\src\\main\\res\\layout\\activity_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\fpdlq\\Desktop\\android\\coinner\\Coin_kotlin\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\stripped.dir\\layout\\item_post.xml",
+        "source": "C:\\Users\\fpdlq\\Desktop\\android\\coinner\\Coin_kotlin\\app\\src\\main\\res\\layout\\item_post.xml"
+    }
+]

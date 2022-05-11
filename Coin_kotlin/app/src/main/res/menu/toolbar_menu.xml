@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/toolbar_board_alarm"
+        android:title="알림등록"
+        android:icon="@drawable/ic_notificaion"
+        app:showAsAction="always">
+    </item>
+
+    <item
+        android:id="@+id/toolbar_board_reset"
+        android:title="새로고침"
+        android:icon="@drawable/ic_autorenew"
+        app:showAsAction="always">
+    </item>
+
+    <item
+        android:id="@+id/toolbar_board_search"
+        android:title="글찾기"
+        android:icon="@drawable/ic_search"
+        app:showAsAction="always">
+    </item>
+
+    <item
+        android:id="@+id/toolbar_board_addfavorit"
+        android:title="관심추가"
+        app:showAsAction="always">
+    </item>
+
+    <item
+        android:id="@+id/toolbar_board_write_post_btn"
+        android:title="글쓰기버튼"
+        android:icon="@drawable/ic_write_btn"
+        app:showAsAction="always">
+    </item>
+</menu>
